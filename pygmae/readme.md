@@ -1,8 +1,8 @@
-*Projecte pygame
+* Projecte pygame
 
 Aquest projecte farem un projecte de naus
 
-*Sprites
+* Sprites
 
 #Nau protagonista
 ![Nau protagonista](NAVEEXOTICA.png)
